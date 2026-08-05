@@ -70,17 +70,6 @@ This repository documents my journey learning **Full-Stack Web Development** thr
 - Creating navigation between multiple HTML pages
 - Organizing project files for scalability and clarity
 - Deploying static websites live using GitHub Pages
-
----
-
-## 🗂️ Projects Index
-
-| # | Project | Concepts Demonstrated |
-|---|----------|------------------------|
-| 1 | Movie Ranking Website | HTML structure, headings, lists |
-| 2 | Birthday Invitation Website | Media embedding, anchors, lists |
-| 3 | Personal Portfolio Website | Multi-page navigation, boilerplate, deployment |
-
 ---
 > 🔄 README will be updated daily as new revision topics are completed.
 
