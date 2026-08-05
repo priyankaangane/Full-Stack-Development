@@ -71,21 +71,6 @@ This repository documents my journey learning **Full-Stack Web Development** thr
 - Organizing project files for scalability and clarity
 - Deploying static websites live using GitHub Pages
 
-## 🚀 Real-World Applications
-
-| Concept | Real-World Usage |
-|----------|-------------------|
-| Client-Server Model | Foundation of every web application |
-| HTML Boilerplate | Starting point for every professional web project |
-| Headings & Lists | Structuring readable content, menus, and FAQs |
-| Anchor Elements | Site-wide navigation and external linking |
-| Images & File Paths | Product galleries, portfolios, multi-page assets |
-| GitHub Pages | Free static site hosting for portfolios and demos |
-
-## 📈 Progress Summary
-
-The first three days built a solid foundation in how the web works and how HTML structures content. Starting from the client-server model, I progressed through core HTML syntax, media and navigation, and finished by deploying a live, multi-page Personal Portfolio site via GitHub Pages — turning local code into a shareable web presence.
-
 ---
 
 ## 🗂️ Projects Index
