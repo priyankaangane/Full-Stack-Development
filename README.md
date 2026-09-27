@@ -108,7 +108,7 @@ Each phase below is collapsed by default — click any one to expand the full br
 <details>
 <summary><strong>📅 Day 1 – 3 &nbsp;·&nbsp; Internet Fundamentals & HTML Basics</strong> &nbsp; ✅</summary>
 <br>
-**Duration:** ~11 hours &nbsp;|&nbsp; **Projects:** Movie Ranking, Birthday Invitation, Personal Portfolio
+**Duration**: ~11 hours &nbsp;|&nbsp; **Projects**: Movie Ranking, Birthday Invitation, Personal Portfolio
 
 #### 📘 Topics Covered
 
