@@ -76,7 +76,6 @@ A two-player dice-rolling game. Every click generates two fresh random rolls, up
 - Conditional logic to compare rolls & declare a winner
 - `window.onload` to auto-run on page load
 
-🔗 *Live demo — add your link here*
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +92,6 @@ A full memory/pattern game: the sequence grows each round, sound and colour conf
 - Sound + CSS animation feedback on every interaction
 - Full game-state management: start → play → game over → restart
 
-🔗 *Live demo — add your link here*
 
 </td>
 </tr>
@@ -105,15 +103,11 @@ A full memory/pattern game: the sequence grows each round, sound and colour conf
 ## 🗓️ Learning Timeline
 
 Each phase below is collapsed by default — click any one to expand the full breakdown of topics, exercises, and projects.
-
 <br>
-
 <a name="day-1-3"></a>
 <details>
 <summary><strong>📅 Day 1 – 3 &nbsp;·&nbsp; Internet Fundamentals & HTML Basics</strong> &nbsp; ✅</summary>
-
 <br>
-
 **Duration:** ~11 hours &nbsp;|&nbsp; **Projects:** Movie Ranking, Birthday Invitation, Personal Portfolio
 
 #### 📘 Topics Covered
