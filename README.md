@@ -76,6 +76,7 @@ A two-player dice-rolling game. Every click generates two fresh random rolls, up
 - Conditional logic to compare rolls & declare a winner
 - `window.onload` to auto-run on page load
 
+🔗 *Live demo — add your link here*
 
 </td>
 <td width="50%" valign="top">
@@ -92,6 +93,7 @@ A full memory/pattern game: the sequence grows each round, sound and colour conf
 - Sound + CSS animation feedback on every interaction
 - Full game-state management: start → play → game over → restart
 
+🔗 *Live demo — add your link here*
 
 </td>
 </tr>
@@ -103,12 +105,16 @@ A full memory/pattern game: the sequence grows each round, sound and colour conf
 ## 🗓️ Learning Timeline
 
 Each phase below is collapsed by default — click any one to expand the full breakdown of topics, exercises, and projects.
+
 <br>
+
 <a name="day-1-3"></a>
 <details>
 <summary><strong>📅 Day 1 – 3 &nbsp;·&nbsp; Internet Fundamentals & HTML Basics</strong> &nbsp; ✅</summary>
+
 <br>
-**Duration**: ~11 hours &nbsp;|&nbsp; **Projects**: Movie Ranking, Birthday Invitation, Personal Portfolio
+
+⏱️ **Duration:** ~11 hours &nbsp;·&nbsp; 🛠️ **Projects:** Movie Ranking, Birthday Invitation, Personal Portfolio
 
 #### 📘 Topics Covered
 
@@ -153,7 +159,7 @@ Each phase below is collapsed by default — click any one to expand the full br
 
 <br>
 
-**Projects:** Online Resume, Colour Vocab Website, Motivational Poster, CSS Flag, Web Design Agency Website, Pricing Table, Mondrian Painting, TinDog Startup Website
+🛠️ **Projects:** Online Resume, Colour Vocab Website, Motivational Poster, CSS Flag, Web Design Agency Website, Pricing Table, Mondrian Painting, TinDog Startup Website
 
 #### 📘 Topics Covered
 
@@ -206,6 +212,8 @@ Each phase below is collapsed by default — click any one to expand the full br
 
 <br>
 
+🛠️ **Projects:** *None yet — every concept here feeds straight into the DOM-driven projects next*
+
 #### 📘 Topics Covered
 
 | Category | Concepts Learned |
@@ -225,8 +233,6 @@ Each phase below is collapsed by default — click any one to expand the full br
 
 `🟢` Variable naming quiz &nbsp;·&nbsp; `🟢` String casing challenge &nbsp;·&nbsp; `🟡` Karel the Robot &nbsp;·&nbsp; `🟡` Life in Weeks &nbsp;·&nbsp; `🟡` BMI Calculator &nbsp;·&nbsp; `🟡` Love Calculator &nbsp;·&nbsp; `🟡` Leap Year Challenge &nbsp;·&nbsp; `🔴` Who's Buying Lunch? &nbsp;·&nbsp; `🔴` 99 Bottles of Beer &nbsp;·&nbsp; `🔴` Fibonacci Generator
 
-> *No standalone project in this phase — every concept here feeds directly into the DOM-driven projects next.*
-
 #### 💡 Key Takeaways
 - Writing clean, reusable functions with parameters and return values
 - `alert()` displays; `return` hands a value back to your code
@@ -243,7 +249,7 @@ Each phase below is collapsed by default — click any one to expand the full br
 
 <br>
 
-**Projects:** 🎲 Dice Game, Drum Kit
+🛠️ **Projects:** 🎲 Dice Game, Drum Kit
 
 #### 📘 Topics Covered
 
@@ -285,7 +291,7 @@ Each phase below is collapsed by default — click any one to expand the full br
 
 <br>
 
-**Projects:** 🎮 Simon Game
+🛠️ **Projects:** 🎮 Simon Game
 
 #### 📘 Topics Covered
 
